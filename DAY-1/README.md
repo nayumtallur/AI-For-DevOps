@@ -33,6 +33,7 @@ Advantages:
 
 
 Key Differences Summary
+
 Feature                 	   Traditional AI	                       Generative AI
 Data Type--------------Structured (logs, metrics)----------Structured + Unstructured (logs, docs, chat)
 Approach------------Predictive, classification-based-------Generative, contextual understanding
